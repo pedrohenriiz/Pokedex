@@ -1,3 +1,9 @@
+# Pokedex
+A Pokémon pokedex inspired with tons of informations about ours favourites pocket monsters!
+
+![image](https://user-images.githubusercontent.com/56472003/126244859-ca036281-8f47-4b8c-8271-19a1da3fa83b.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
